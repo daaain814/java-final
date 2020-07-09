@@ -1,7 +1,7 @@
 public class IntArr {
     public static void main(String[] args) {
         /* 배열 선언 */
-        int[] arr = {1,2,3,4};
-        System. out.println(arr .getClass());
+        int[] arr = {1, 2, 3, 4};
+        System.out.println(arr.getClass());
     }
 }

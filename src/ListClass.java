@@ -7,6 +7,6 @@ public class ListClass {
         a.add(1);
         a.add(2);
         a.add("Hello");
-        System. out.println(a );
+        System.out.println(a);
     }
 }

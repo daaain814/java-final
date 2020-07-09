@@ -7,11 +7,11 @@ public class DataType_2 {
         Boolean b = true;
         Character c = 'a';
         String s = "Hello World";
-        System. out.println( i);
-        System. out.println( f);
-        System. out.println( d);
-        System. out.println( b);
-        System. out.println( c);
-        System. out.println(s );
+        System.out.println(i);
+        System.out.println(f);
+        System.out.println(d);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(s);
     }
 }

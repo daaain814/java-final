@@ -9,8 +9,8 @@ public class elif {
             System. out.println("변수 i는 2입니다." );
         } else if (i == 3){
             System. out.println("변수 i는 3입니다." );
-        } else{
-            System. out.println("변수 1,2,3이 아닌 값입니다." );
+        } else {
+            System.out.println("변수 1,2,3이 아닌 값입니다.");
         }
     }
 }

@@ -1,12 +1,12 @@
 public class ForContinue {
     public static void main(String[] args) {
-        int i ;
+        int i;
 
-        for(i = 0; i < 5; i++){
-            if(i == 3){
+        for (i = 0; i < 5; i++) {
+            if (i == 3) {
                 continue;
             }
-            System. out.println(i );
+            System.out.println(i);
         }
     }
 }

@@ -6,10 +6,10 @@ public class DataType {
         double d = 1.2;
         boolean b = true;
         char c = 'a';
-        System. out.println(i );
-        System. out.println(f );
-        System. out.println( d);
-        System. out.println(b );
-        System. out.println(c );
+        System.out.println(i);
+        System.out.println(f);
+        System.out.println(d);
+        System.out.println(b);
+        System.out.println(c);
     }
 }
